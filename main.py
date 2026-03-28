@@ -1,4 +1,5 @@
 import sys
+import math
 
 
 def leer_transacciones():
@@ -20,6 +21,8 @@ def leer_transacciones():
         try:
             cantidad = int(cantidad_str)
             precio = float(precio_str)
+            if not math.isfinite(precio):
+                continue
         except ValueError:
             continue
 
@@ -50,13 +53,14 @@ def agrupar_por_producto(transacciones):
     return productos
 
 
-def calcular_reporte(productos):
+def calcular_reporte(productos):  
     filas = []
 
     for nombre, datos in productos.items():
         unidades = datos["unidades"]
         ingreso = datos["ingreso"]
 
+        # Regla: evitar división por cero
         precio_promedio = ingreso / unidades if unidades > 0 else 0.0
 
         filas.append({
