@@ -14,7 +14,6 @@ Notebook_HyperX,12,91809.72,7650.81
 Barra_Sonido_Samsung,14,85869.14,6133.51
 Docking_Station,15,74394.90,4959.66
 Pantalla_Portatil_Kingston,19,72470.94,3814.26
-Licencia_Adobe,18,69157.44,3842.08
 Pantalla_Portatil_Sony,17,54973.24,3233.72
 Tarjeta_Video_TP_Link,18,53281.98,2960.11
 Ultrabook_Anker,3,50745.78,16915.26
@@ -22,7 +21,6 @@ Laptop_Asus,3,50360.04,16786.68
 MacBook_Asus,1,48342.77,48342.77
 RAM_Dell,20,46716.40,2335.82
 Barra_Sonido,25,45253.17,1810.13
-Chromebook_Dell,4,39720.76,9930.19
 Placa_Base,9,37488.96,4165.44
 SSD_Seagate,15,33307.05,2220.47
 SSD_BenQ,13,32662.11,2512.47
@@ -38,8 +36,6 @@ Tarjeta_Video,2,20609.64,10304.82
 Impresora_Laser,2,20513.78,10256.89
 SSD_LG,7,18643.66,2663.38
 Mouse_Gaming_Canon,11,18401.13,1672.83
-NAS_HP,2,17645.70,8822.85
-Audifonos_Gaming_Logitech,16,15993.28,999.58
 Barra_Sonido_Logitech,3,15172.80,5057.60
 Audifonos_Gaming_WD,9,14214.69,1579.41
 Teclado_Mecanico_Dell,10,14193.10,1419.31
@@ -47,7 +43,6 @@ Microfono_HP,18,13114.80,728.60
 Audifonos_Gaming_Gigabyte,5,12894.60,2578.92
 SSD_SanDisk,3,12527.94,4175.98
 Stylus_Anker,8,12322.72,1540.34
-Chromebook_Razer,1,12225.89,12225.89
 HDD_Logitech,5,11719.85,2343.97
 Microfono_Razer,8,11632.00,1454.00
 Microfono_USB_Corsair,5,11128.00,2225.60
@@ -74,7 +69,6 @@ MicroSD_Lenovo,17,3389.29,199.37
 Teclado_Mecanico_HyperX,1,2634.83,2634.83
 HDD_Externo_Logitech,1,2519.71,2519.71
 Teclado_Mecanico_Kingston,1,2308.81,2308.81
-SSD_Kingston,1,2272.13,2272.13
 USB_Asus,11,1832.93,166.63
 HDD_WD,1,626.59,626.59
 USB_Acer,7,463.47,66.21
